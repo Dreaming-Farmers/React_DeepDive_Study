@@ -6,9 +6,7 @@
 ## 스터디로그
 - __기간__: 2024. 04. 30. (화) ~ 2024. 06. 30. (화)
 - __참여__ (총 4인)
-  - 
- - __운영진__
-   - 
+  - [신종욱](https://github.com/dlsxjzld), [조승현](https://github.com/SeungHyune), [박수현](https://github.com/pySoo),[김현주](https://github.com/kim-hyunjoo)
   
 - __주차별 주제 모아보기__
   | No. | 💬 Main Topic |
